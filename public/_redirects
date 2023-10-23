@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/database/bd.json 200
+/* /index.html 200
