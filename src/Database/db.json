@@ -5,7 +5,7 @@
             "Nombre":"Citas React",
             "Tecnologia":"React, JavaScript, Html, Css",
             "Fecha":"5-FEB-2023",
-            "Img":"src/image/Proyectos/Citas_React.png",
+            "Img":"../image/Proyectos/Citas_React.png",
             "codigo":"https://github.com/BrayanAlexanderSalazarReyes12/Citas_React_Vite",
             "url":"https://aesthetic-panda-a82213.netlify.app/"
         },
@@ -14,7 +14,7 @@
             "Nombre":"Control Gastos Mes React Vite",
             "Tecnologia":"React, JavaScript, Html, Css",
             "Fecha":"9-FEB-2023",
-            "Img":"src/image/Proyectos/Control-Gastos-Mes-React-Vite.png",
+            "Img":"../image/Proyectos/Control-Gastos-Mes-React-Vite.png",
             "codigo":"https://github.com/BrayanAlexanderSalazarReyes12/Control-Gastos-Mes-React-Vite",
             "url":"https://dulcet-hotteok-a55bca.netlify.app/"
         },
@@ -23,7 +23,7 @@
             "Nombre":"Criptos React Vite",
             "Tecnologia":"React, JavaScript, Html, Css",
             "Fecha":"12-FEB-2023",
-            "Img":"src/image/Proyectos/Criptos_React_Vite.png",
+            "Img":"../image/Proyectos/Criptos_React_Vite.png",
             "codigo":"https://github.com/BrayanAlexanderSalazarReyes12/Criptos_React_Vite",
             "url":"https://capable-buttercream-7ae60b.netlify.app/"
         },
@@ -32,7 +32,7 @@
             "Nombre":"CRM REACT VITE TAILWINDCSS",
             "Tecnologia":"React, JavaScript, Html, TailwindCss",
             "Fecha":"3-JUL-2023",
-            "Img":"src/image/Proyectos/null.png",
+            "Img":"../image/Proyectos/null.png",
             "codigo":"https://github.com/BrayanAlexanderSalazarReyes12/Criptos_React_Vite",
             "url":""
         },
@@ -41,7 +41,7 @@
             "Nombre":"Agendamiento para el mantenimiento de aires acondicionado",
             "Tecnologia":"Css, PHP, Javascript",
             "Fecha":"20-OCT-2020",
-            "Img":"src/image/Proyectos/null.png",
+            "Img":"../image/Proyectos/null.png",
             "codigo":"https://github.com/BrayanAlexanderSalazarReyes12/Agendamiento-para-el-mantenimiento-de-aires-acondicionado",
             "url":""
         },
@@ -50,7 +50,7 @@
             "Nombre":"Sistema Pos Anubis",
             "Tecnologia":"Java",
             "Fecha":"20-OCT-2021",
-            "Img":"src/image/Proyectos/null.png",
+            "Img":"../image/Proyectos/null.png",
             "codigo":"https://github.com/BrayanAlexanderSalazarReyes12/Sistema-pos-anubis",
             "url":""
         }
