@@ -12,11 +12,10 @@ export default function CProject() {
     const leer = async () =>{
         SetProject(await mostrar());
     }
-    console.log(project.Project)
   return (
     <>
     {
-        project.Project?.map(list => (
+        project?.map(list => (
             <div className="bg-zinc-900 m-10 rounded-xl" key={list.Id}>
                 <img src={list.Img} alt="Citas React" width="250px" height="250px" className="ml-7 mt-5 mb-5"/>
                 <h1 className="uppercase font-bold text-center text-lg text-white mb-2">{list.Nombre}</h1>
