@@ -106,10 +106,7 @@
         margin-bottom: 12px;
     }
 }
-<<<<<<< HEAD
 
 .grid-cols-mod{
     grid-template-columns: repeat(3, minmax(0, 0.08fr));
 }
-=======
->>>>>>> f654a7c94c18f2f97dc2dff44c3815a13c89dfb2
