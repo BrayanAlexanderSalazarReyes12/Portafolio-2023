@@ -1,4 +1,3 @@
-import React from 'react'
 import js from '../image/JS.png'
 import reactL from '../image/react.png'
 import javaL from '../image/java.png'

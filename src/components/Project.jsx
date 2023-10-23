@@ -1,7 +1,12 @@
+import CProject from "./CProject";
+
 export default function Project() {
   return (
-    <div className="bg-emerald-700 py-10" id="project">
-        <h1 className="uppercase text-white font-bold">Desde proyectos</h1>
+    <div className="bg-zinc-950 " id="project">
+      <p className="text-red-700 uppercase font-bold text-center text-2xl">Projects</p>
+      <div className="py-10 grid grid-cols-4">
+        <CProject/>
+      </div>
     </div>
   )
 }
